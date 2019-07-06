@@ -34,7 +34,7 @@ public class SolutionMain {
 
 		
 		// Retrieve the number of Trump Posts required
-		List<TrumpPost> list = TrumpPost.getNumberOfTrumpPostsasList(10);
+		List<TrumpPost> list = TrumpPost.getPostsFromFile();
 
 
 		/*
